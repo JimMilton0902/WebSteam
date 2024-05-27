@@ -1,0 +1,114 @@
+{
+  "products": [
+    {
+      "title": "Cyberpunk 2077",
+      "price": "990.000",
+      "sale": "495.000",
+      "description": "Cyberpunk 2077 is an open-world, action-adventure RPG set in the dark future of Night City — a dangerous megalopolis obsessed with power, glamor, and ceaseless body modification.",
+      "img": "./img/cp2077.jpg",
+      "id": "1",
+      "category": 1
+    },
+    {
+      "title": "God Of War",
+      "price": "1.159.000",
+      "sale": "579.500",
+      "description": "Cuộc trả thù các Vị thần trên đỉnh Olympus của Kratos đã lùi dần vào dĩ vãng. Giờ đây, Kratos sống ẩn mình như một người đàn ông bình thường trong mảnh đất nơi các vị thần và quái vật Bắc Âu thống trị. Nhưng chính trong thế giới nghiệt ngã, không khoan nhượng này, ông phải chiến đấu để tồn tại.",
+      "img": "./img/Gow.jpg",
+      "id": "1",
+      "category": 1
+    },    
+    {
+      "title": "Grand Theft Auto V",
+      "price": "608.000",
+      "sale": "227.000",
+      "description": "Grand Theft Auto V for PC offers players the option to explore the award-winning world of Los Santos and Blaine County in resolutions of up to 4k and beyond, as well as the chance to experience the game running at 60 frames per second.",
+      "img": "./img/gta5.png",
+      "id": "1",
+      "category": 1
+    },
+    {
+      "title": "The Last Of Us Part I",
+      "price": "1.499.000",
+      "sale": "749.500",
+      "description": "Trải nghiệm cốt truyện đầy cảm xúc và những nhân vật khó quên trong The Last of Us™, chủ nhân của hơn 200 giải thưởng Trò Chơi Của Năm.",
+      "img": "./img/TLOU.jpg",
+      "id": "1",
+      "category": 1
+    },
+    {
+      "title": "Alan Wake II",
+      "price": "1.121.000",
+      "sale": "606.000",
+      "description": "Saga Anderson arrives to investigate ritualistic murders in a small town. Alan Wake pens a dark story to shape the reality around him. These two heroes are somehow connected. Can they become the heroes they need to be?",
+      "img": "./img/Aw2.jpg",
+      "id": "1",
+      "category": 1
+    },
+    {
+      "title": "God Of War Ragnarok",
+      "price": "1.799.000",
+      "sale": "899.500",
+      "description": "From Santa Monica Studio comes the sequel to the critically acclaimed God of War (2018). Fimbulwinter is well underway. Kratos and Atreus must journey to each of the Nine Realms in search of answers as Asgardian forces prepare for a prophesied battle that will end the world. Along the way they will explore stunning, mythical landscapes, and face fearsome enemies in the form of Norse gods and monsters. The threat of Ragnarök grows ever closer. Kratos and Atreus must choose between their own safety and the safety of the realms.",
+      "img": "./img/GowR.jpg",
+      "id": "1",
+      "category": 1
+    },
+    {
+      "title": "Resident Evil 4",
+      "price": "952.000",
+      "sale": "462.000",
+      "description": "Survival is just the beginning. Six years have passed since the biological disaster in Raccoon City. Leon S. Kennedy, one of the survivors, tracks the president's kidnapped daughter to a secluded European village, where there is something terribly wrong with the locals.",
+      "img": "./img/Re4.jpg",
+      "id": "1",
+      "category": 1
+    },
+    {
+      "title": "GTA Trilogy Definitve Edition",
+      "price": "1.000.000",
+      "sale": "500.000",
+      "description": "Ba thành phố mang tính biểu tượng, ba câu chuyện kịch tính. Trải nghiệm những kiệt tác xác định thể loại của bộ ba Grand Theft Auto gốc: Grand Theft Auto III, Grand Theft Auto: Vice City và Grand Theft Auto: San Andreas được cập nhật cho một thế hệ mới, với nâng cấp toàn diện bao gồm ánh sáng mới tuyệt vời và cập nhật môi trường, các hình ảnh có độ phân giải cao, tăng cường khả năng nhìn xa, kiểu điều khiển và mục tiêu giống như Grand Theft Auto V, và nhiều tính năng khác nữa, mang đến cho những thế giới quen thuộc này sự sống động với mức độ chi tiết hoàn toàn mới.",
+      "img": "./img/gtatrilogy.jpg",
+      "id": "1",
+      "category": 1
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "text": "Hành động",
+      "img":"https://picsum.photos/200/301",
+      "count":100
+    },
+    {
+      "id": "2",
+      "text": "Nhập vai",
+      "img":"https://picsum.photos/200/302",
+      "count":200
+    },
+    {
+      "id": "3",
+      "text": "Phiêu lưu",
+      "img":"https://picsum.photos/200/303",
+      "count":100
+    },
+    {
+      "id": "4",
+      "text": "Thế giới mở",
+      "img":"https://picsum.photos/200/304",
+      "count":100
+    }
+  ],
+  "users":[
+    {
+      "name": "user1",
+      "password": "123"
+  
+    },
+    {
+      "name": "user2",
+      "password": "123"
+  
+    }
+  ] 
+}
